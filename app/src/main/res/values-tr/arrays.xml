@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="questions">
+        <item>Fransa\'nın başkenti neresidir?|Paris</item>
+        <item>"Romeo ve Juliet"i kim yazdı?|Shakespeare</item>
+        <item>Suyun kimyasal sembolü nedir?|H2O</item>
+        <item>Hangi gezegen Kızıl Gezegen olarak bilinir?|Mars</item>
+        <item>Kafasına elma düştüğünde yer çekimini keşfeden kişi kimdir?|Newton</item>
+        <item>Dünyanın en büyük memelisi nedir?|Mavi balina</item>
+        <item>Bitkiler fotosentez sırasında atmosferden hangi gazı emer?|Karbon dioksit</item>
+        <item>Kristof Kolomb Amerika\'yı hangi yılda keşfetti?|1492</item>
+        <item>Altının kimyasal sembolü nedir?|Au</item>
+        <item>"Alaycı Kuşu Öldürmek" adlı romanın yazarı kimdir?|Harper Lee</item>
+        <item>Hücrenin güç merkezi nedir?|Mitokondri</item>
+        <item>Dünyanın en uzun nehri hangisidir?|Nil</item>
+        <item>Bitkilerin güneş ışığını kullanarak kendi besinlerini üretme süreci nedir?|Fotosentez</item>
+        <item>Ünlü portre "Mona Lisa"yı kim yaptı?|Leonardo da Vinci</item>
+        <item>İnsan vücudundaki en büyük organ nedir?|Deri</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Bir ayağınızın üzerinde ve ardından diğer ayağınızın üzerinde üç kez zıplayın.|</item>
+        <item>Alfabeyi tersten söyleyin.|</item>
+        <item>10 hızlı squat yapın.|</item>
+        <item>5 saniye boyunca bir araba motorunun sesini taklit edin.|</item>
+        <item>Yabancı bir dilde 20\'ye kadar yüksek sesle sayın (eğer biliyorsanız).|</item>
+        <item>Ellerinizle kendinize hızlı bir sırt masajı yapın.|</item>
+        <item>Hiçbir sebep olmadan kendinizi güldürmeye çalışın.|</item>
+        <item>Yerinde 5 hızlı atlama yapın.|</item>
+        <item>Gülen yüz ve kalp emojisi olan birine kısa mesaj gönderin.|</item>
+        <item>"Pizzaya bayılırım!" deyin gerçek bir coşkuyla.|</item>
+        <item>Bir daire şeklinde üç kez dönün.|</item>
+        <item>Bir parça kağıda 10 saniye boyunca bir şeyler karalayın.|</item>
+        <item>Etrafınıza bakın ve 5 kırmızı nesneyi adlandırın.|</item>
+        <item>Adınızı tersten söyleyin.|</item>
+        <item>Yerden 5 hızlı şınav çekin.|</item>
+    </string-array>
+</resources>

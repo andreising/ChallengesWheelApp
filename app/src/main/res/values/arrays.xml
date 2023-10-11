@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>What is the capital of France?|Paris</item>
+        <item>Who wrote "Romeo and Juliet"?|Shakespeare</item>
+        <item>What is the chemical symbol for water?|H2O</item>
+        <item>Which planet is known as the Red Planet?|Mars</item>
+        <item>Who is credited with discovering gravity when an apple fell on his head?|Newton</item>
+        <item>What is the largest mammal in the world?|Blue whale</item>
+        <item>What gas do plants absorb from the atmosphere during photosynthesis?|Carbon dioxide</item>
+        <item>In what year did Christopher Columbus discover America?|1492</item>
+        <item>What is the chemical symbol for gold?|Au</item>
+        <item>Who is the author of the novel "To Kill a Mockingbird"?|Harper Lee</item>
+        <item>What is the powerhouse of the cell?|Mitochondria</item>
+        <item>Which river is the longest in the world?|Nile</item>
+        <item>What is the process by which plants make their own food using sunlight?|Photosynthesis</item>
+        <item>Who painted the famous portrait "Mona Lisa"?|Leonardo da Vinci</item>
+        <item>What is the largest organ in the human body?|Skin</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Jump three times on one leg and then on the other.|</item>
+        <item>Say the alphabet backward.|</item>
+        <item>Do 10 quick squats.|</item>
+        <item>Imitate the sound of a car engine for 5 seconds.|</item>
+        <item>Count aloud to 20 in a foreign language (if you know one).|</item>
+        <item>Give yourself a quick back massage with your hands.|</item>
+        <item>Try to make yourself laugh without any reason.|</item>
+        <item>Do 5 quick jumps in place.|</item>
+        <item>Send a text message to someone with a smiley face and a heart emoji.|</item>
+        <item>Say "I love pizza!" with genuine enthusiasm.|</item>
+        <item>Spin around in a circle three times.|</item>
+        <item>Doodle something on a piece of paper for 10 seconds.|</item>
+        <item>Look around and name 5 red objects.|</item>
+        <item>Say your name backward.|</item>
+        <item>Do 5 quick push-ups from the floor.|</item>
+    </string-array>
+</resources>

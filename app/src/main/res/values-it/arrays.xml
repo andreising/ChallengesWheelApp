@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="questions">
+        <item>Qual è la capitale della Francia\?|Parigi</item>
+        <item>Chi ha scritto \"Romeo e Giulietta\"\?|Shakespeare</item>
+        <item>Qual è il simbolo chimico dell\'acqua\?|H2O</item>
+        <item>Quale pianeta è conosciuto come Pianeta Rosso\?|Marte</item>
+        <item>A chi viene attribuita la scoperta della gravità quando una mela gli cadde in testa\?|Newton</item>
+        <item>Qual è il mammifero più grande del mondo\?|La balenottera azzurra</item>
+        <item>Quale gas assorbono le piante dall\'atmosfera durante la fotosintesi\?|Anidride carbonica</item>
+        <item>In che anno Cristoforo Colombo scoprì l\'America\?|1492</item>
+        <item>Qual è il simbolo chimico dell\'oro\?|Au</item>
+        <item>Chi è l\'autore del romanzo \"Il buio oltre la siepe\"\?|Harper Lee</item>
+        <item>Qual è la centrale elettrica della cellula\?|I mitocondri</item>
+        <item>Qual è il fiume più lungo del mondo\?|Nilo</item>
+        <item>Qual è il processo mediante il quale le piante producono il proprio cibo utilizzando la luce solare\?|Fotosintesi</item>
+        <item>Chi ha dipinto il famoso ritratto \"Mona Lisa\"\?|Leonardo da Vinci</item>
+        <item>Qual è l\'organo più grande del corpo umano\?|La pelle</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Salta tre volte su una gamba e poi sull\'altra.|</item>
+        <item>Pronuncia l\'alfabeto al contrario.|</item>
+        <item>Esegui 10 squat veloci.|</item>
+        <item>Imita il rumore del motore di un\'auto per 5 secondi.|</item>
+        <item>Conta ad alta voce fino a 20 in una lingua straniera (se ne conosci una).|</item>
+        <item>Fatevi un veloce massaggio alla schiena con le mani.|</item>
+        <item>Prova a farti ridere senza motivo.|</item>
+        <item>Esegui 5 salti veloci sul posto.|</item>
+        <item>Invia un messaggio di testo a qualcuno con una faccina sorridente e un\'emoji a forma di cuore.|</item>
+        <item>Di\' \"Adoro la pizza!\" con genuino entusiasmo.|</item>
+        <item>Gira in cerchio tre volte.|</item>
+        <item>Scarabocchia qualcosa su un pezzo di carta per 10 secondi.|</item>
+        <item>Guardati intorno e dai un nome a 5 oggetti rossi.|</item>
+        <item>Pronuncia il tuo nome al contrario.|</item>
+        <item>Esegui 5 flessioni veloci da terra.|</item>
+    </string-array>
+</resources>

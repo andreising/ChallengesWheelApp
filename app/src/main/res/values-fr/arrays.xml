@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="questions">
+        <item>Quelle est la capitale de la France \?|Paris</item>
+        <item>Qui a écrit « Roméo et Juliette » \?|Shakespeare</item>
+        <item><![CDATA[Quel est le symbole chimique de l\'eau \?|H2O]]></item>
+        <item><![CDATA[Quelle planète est connue sous le nom de planète rouge \?|Mars]]></item>
+        <item>À qui est attribué la découverte de la gravité lorsqu’une pomme lui tombe sur la tête \?|Newton</item>
+        <item>Quel est le plus grand mammifère du monde \?|Baleine bleue</item>
+        <item><![CDATA[Quels gaz les plantes absorbent-elles de l’atmosphère pendant la photosynthèse \?|Dioxyde de carbone]]></item>
+        <item>En quelle année Christophe Colomb a-t-il découvert l\'Amérique \?|1492</item>
+        <item>Quel est le symbole chimique de l\'or \?|Au</item>
+        <item>Qui est l\'auteur du roman \"To Kill a Mockingbird\" \?|Harper Lee</item>
+        <item><![CDATA[Quelle est la puissance de la cellule \?|Mitochondries]]></item>
+        <item>Quel fleuve est le plus long du monde \?|Nil</item>
+        <item><![CDATA[Quel est le processus par lequel les plantes fabriquent leur propre nourriture en utilisant la lumière du soleil \?|Photosynthèse]]></item>
+        <item>Qui a peint le célèbre portrait « Mona Lisa » \?|Léonard de Vinci</item>
+        <item>Quel est le plus grand organe du corps humain \?|Peau</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Sautez trois fois sur une jambe puis sur l\'autre.|</item>
+        <item>Dites l\'alphabet à l\'envers.|</item>
+        <item>Faites 10 squats rapides.|</item>
+        <item>Imitez le bruit d\'un moteur de voiture pendant 5 secondes.|</item>
+        <item>Comptez à voix haute jusqu\'à 20 dans une langue étrangère (si vous en connaissez une).|</item>
+        <item>Offrez-vous un massage rapide du dos avec vos mains.|</item>
+        <item>Essayez de vous faire rire sans aucune raison.|</item>
+        <item>Faites 5 sauts rapides sur place.|</item>
+        <item>Envoyez un message texte à quelqu\'un avec un visage souriant et un emoji cœur.|</item>
+        <item><![CDATA[Dites « J\'aime la pizza ! » avec un véritable enthousiasme.|]]></item>
+        <item>Tournez trois fois en cercle.|</item>
+        <item>Gribouillez quelque chose sur une feuille de papier pendant 10 secondes.|</item>
+        <item>Regardez autour de vous et nommez 5 objets rouges.|</item>
+        <item>Dites votre nom à l\'envers.|</item>
+        <item>Faites 5 pompes rapides depuis le sol.|</item>
+    </string-array>
+</resources>

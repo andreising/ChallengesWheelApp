@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="questions">
+        <item>Qual é a capital da França\?|Paris</item>
+        <item>Quem escreveu \"Romeu e Julieta\"\?|Shakespeare</item>
+        <item>Qual é o símbolo químico da água\?|H2O</item>
+        <item>Qual planeta é conhecido como Planeta Vermelho\?|Marte</item>
+        <item>A quem se atribui a descoberta da gravidade quando uma maçã caiu em sua cabeça\?|Newton</item>
+        <item>Qual é o maior mamífero do mundo\?|Baleia azul</item>
+        <item>Que gás as plantas absorvem da atmosfera durante a fotossíntese\?|Dióxido de carbono</item>
+        <item>Em que ano Cristóvão Colombo descobriu a América\?|1492</item>
+        <item>Qual é o símbolo químico do ouro\?</item>
+        <item>Quem é o autor do romance \"To Kill a Mockingbird\"\?|Harper Lee</item>
+        <item>Qual é a potência da célula\?|Mitocôndrias</item>
+        <item>Qual rio é o mais longo do mundo\? | Nilo</item>
+        <item>Qual é o processo pelo qual as plantas produzem seus próprios alimentos usando a luz solar\?|Fotossíntese</item>
+        <item>Quem pintou o famoso retrato \"Mona Lisa\"\?|Leonardo da Vinci</item>
+        <item>Qual é o maior órgão do corpo humano\?|Pele</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Pule três vezes com uma perna e depois com a outra.|</item>
+        <item>Diga o alfabeto ao contrário.|</item>
+        <item>Faça 10 agachamentos rápidos.|</item>
+        <item>Imite o som do motor de um carro por 5 segundos.|</item>
+        <item>Conte em voz alta até 20 em uma língua estrangeira (se você souber uma).|</item>
+        <item>Faça uma rápida massagem nas costas com as mãos.</item>
+        <item>Tente rir sem motivo.|</item>
+        <item>Faça 5 saltos rápidos no lugar.|</item>
+        <item>Envie uma mensagem de texto para alguém com uma carinha sorridente e um emoji de coração.|</item>
+        <item>Say "I love pizza!" with genuine enthusiasm.|</item>
+        <item>Spin around in a circle three times.|</item>
+        <item>Doodle something on a piece of paper for 10 seconds.|</item>
+        <item>Look around and name 5 red objects.|</item>
+        <item>Say your name backward.|</item>
+        <item>Do 5 quick push-ups from the floor.|</item>
+    </string-array>
+</resources>

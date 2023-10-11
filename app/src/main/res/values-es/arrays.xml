@@ -1,0 +1,36 @@
+<resources>
+    <string-array name="questions">
+        <item>¿Cuál es la capital de Francia?|París</item>
+        <item>¿Quién escribió "Romeo y Julieta"?|Shakespeare</item>
+        <item>¿Cuál es el símbolo químico del agua?|H2O</item>
+        <item>¿Qué planeta se conoce como Planeta Rojo?|Marte</item>
+        <item>¿A quién se le atribuye el descubrimiento de la gravedad cuando una manzana cayó sobre su cabeza?|Newton</item>
+        <item>¿Cuál es el mamífero más grande del mundo?|ballena azul</item>
+        <item>¿Qué gas absorben las plantas de la atmósfera durante la fotosíntesis?|Dióxido de carbono</item>
+        <item>¿En qué año descubrió América Cristóbal Colón?|1492</item>
+        <item>¿Cuál es el símbolo químico del oro?|Au</item>
+        <item>¿Quién es el autor de la novela "Matar a un ruiseñor"?|Harper Lee</item>
+        <item>¿Cuál es el motor de la célula?|Mitocondrias</item>
+        <item>¿Qué río es el más largo del mundo?|Nilo</item>
+        <item>¿Cuál es el proceso mediante el cual las plantas elaboran su propio alimento utilizando la luz solar?|Fotosíntesis</item>
+        <item>¿Quién pintó el famoso retrato "Mona Lisa"?|Leonardo da Vinci</item>
+        <item>¿Cuál es el órgano más grande del cuerpo humano?|La piel</item>
+    </string-array>
+    <string-array name="challenges">
+        <item>Salta tres veces con una pierna y luego con la otra.|</item>
+        <item>Di el alfabeto al revés.|</item>
+        <item>Haz 10 sentadillas rápidas.|</item>
+        <item>Imita el sonido del motor de un coche durante 5 segundos.|</item>
+        <item>Cuenta en voz alta hasta 20 en un idioma extranjero (si conoces uno).|</item>
+        <item>Date un rápido masaje en la espalda con las manos.|</item>
+        <item>Intenta hacerte reír sin ningún motivo.|</item>
+        <item>Haz 5 saltos rápidos en el lugar.|</item>
+        <item>Envía un mensaje de texto a alguien con una cara sonriente y un emoji de corazón.|</item>
+        <item>Di "¡Me encanta la pizza!" con entusiasmo genuino.|</item>
+        <item>Gira en círculo tres veces.|</item>
+        <item>Garabato algo en una hoja de papel durante 10 segundos.|</item>
+        <item>Mira a tu alrededor y nombra 5 objetos rojos.|</item>
+        <item>Di tu nombre al revés.|</item>
+        <item>Haz 5 flexiones rápidas desde el suelo.|</item>
+    </string-array>
+</resources>
